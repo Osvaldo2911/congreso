@@ -1,0 +1,20 @@
+#header{
+    background: #071E44 !important;
+}
+#main .carousel-item img{
+max-height: 70vh;
+object-fit: cover;
+opacity: 0.7;
+}
+
+#footer{
+    background-color: #183461;
+}
+
+footer a, p{
+    color: lightgray;
+}
+
+footer a:hover{
+    color: gray;
+}
